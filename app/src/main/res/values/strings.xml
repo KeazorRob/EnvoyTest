@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">EnvoyRater</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_add">Add</string>
+    <string name="action_save">Save</string>
+    <string name="no_games">Add a new game</string>
+    <string name="title_activity_home_games">Home</string>
+    <string name="title_activity_list_games">Games</string>
+    <string name="title_fragment_add_game">New Game</string>
+    <string name="title_activity_rate_games">Rate\nGames</string>
+    <string name="list_games">Games</string>
+    <string name="write_game_name">Write the new name</string>
+    <string name="write_console_name">Write the console name</string>
+    <string name="rate_app">Rate</string>
+    <string name="select_photo">Select a photo</string>
+    <string name="_ok_">OK</string>
+
+</resources>
